@@ -1,4 +1,4 @@
-# deep-learning-pratice-defect detection
+# A naive deep-learning-pratice-defect detection
 
 training with nvidia 1660(suffer) 6gb,pathetic
 
