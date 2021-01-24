@@ -7,7 +7,7 @@ training with nvidia 1660(suffer) 6gb, how painful :(
 The traing dataset is from dagm2007
 
 
-Output.csv is the table of total image infromation from class0 to class7 ,merged together by myself
+Output.csv is the table of total image infromation from class0 to class7 ,merged by myself
 
 
 Feel free to use it 
